@@ -1,0 +1,154 @@
+{
+   "browser": {
+      "enabled_labs_experiments": [ "enable-tab-audio-muting" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_welcomed_os_version": "10.0",
+      "plugin_message_response_timeout": 25000,
+      "shortcut_migration_version": "13.5.1030.0"
+   },
+   "data_use_measurement": {
+      "data_used": {
+         "services": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         },
+         "user": {
+            "background": {
+
+            },
+            "foreground": {
+
+            }
+         }
+      }
+   },
+   "first_jisu12_skin": false,
+   "hardware_acceleration_mode_previous": true,
+   "legacy": {
+      "profile": {
+         "name": {
+            "migrated": true
+         }
+      }
+   },
+   "os_crypt": {
+      "encrypted_key": "RFBBUEkBAAAA0Iyd3wEV0RGMegDAT8KX6wEAAAAnFTkEapOzR7yBhWIkczmLAAAAAAIAAAAAABBmAAAAAQAAIAAAAOAuwyjaWyAGvVbU88pvkGA9+wDv5ZCnm0UH7VduB4KwAAAAAA6AAAAAAgAAIAAAAFHDM58ecf1SfGrZt/tecxYcjAtckW6gtlN831SpKnjDMAAAAPVSM6+jk4YjEmatyvpiTqpsKpim3m4yEZumfUI+2lbAb9erdCwZfQDB3h1lVCK1skAAAABwfkflfbxrBGbiv8aCwdYW34R2bCulfZrEXTKqDekjcfqRBFRME31qVP64bekZJzlMcQuhVjYAm/xkGb7VbCs0"
+   },
+   "password_manager": {
+      "os_password_blank": false,
+      "os_password_last_changed": "13346920137511854"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1709063177.972998,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "gaia_given_name": "",
+            "gaia_id": "",
+            "gaia_name": "",
+            "hosted_domain": "",
+            "is_consented_primary_account": false,
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "local_auth_credentials": "",
+            "managed_user_id": "",
+            "metrics_bucket_index": 1,
+            "name": "Person 1",
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [  ],
+      "metrics": {
+         "next_bucket_index": 2
+      },
+      "profile_counts_reported": "13353536777086832"
+   },
+   "profile_network_context_service": {
+      "http_cache_finch_experiment_groups": "None None None"
+   },
+   "rappor": {
+      "cohort_seed": 355,
+      "secret": "VuZeKVwNPUmkIOBzm23Awpi0ImbHt+6JEsiZu7kLLQxACcLtYFQhnjkj9uX7JkhI"
+   },
+   "se": {
+      "browser": {
+         "open_doh": {
+            "cloud_allow": false
+         }
+      }
+   },
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "skin": {
+      "info": {
+         "crxid": "jisu13",
+         "id": 0,
+         "name": "jisu13",
+         "url": "",
+         "version": "1.0.0.0"
+      },
+      "last_update": "13353536792247753"
+   },
+   "subresource_filter": {
+      "ruleset_version": {
+         "checksum": 0,
+         "content": "",
+         "format": 0
+      }
+   },
+   "sync_login_info": {
+      "filepath": "",
+      "last_tab": 1,
+      "qid": ""
+   },
+   "tab_stats": {
+      "last_daily_sample": "13353536777981272",
+      "max_tabs_per_window": 2,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1707426850",
+      "launch_count": "6"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source3": 7019,
+      "reporting_enabled": true,
+      "session_id": 5,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "browser_last_live_timestamp": "13353536931964695",
+         "crash_count": 1,
+         "debugger_not_present": 6,
+         "debugger_present": 0,
+         "deferred_count": 0,
+         "discard_count": 1,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "launch_count": 6,
+         "session_end_completed": true,
+         "stats_buildtime": "1624016780",
+         "stats_version": "13.5.1030.0-devel",
+         "system_crash_count": 0,
+         "version_mismatch_count": 0
+      }
+   },
+   "variations_crash_streak": 1,
+   "was": {
+      "restarted": false
+   }
+}
