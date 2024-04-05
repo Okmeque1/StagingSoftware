@@ -13,4 +13,4 @@ If you want to mark out an issue, please make an issue, located under the work `
 
 ## Others : 
 
-Anyone seen violating the code-of-conduct can be reported at `okmeque1@gmail.com`. However, in-depth detail must be provided in order that the report is any useful.
+Anyone seen violating the code-of-conduct can be reported at `okmeque1.corporation@gmail.com`. However, in-depth detail must be provided in order that the report is any useful.
