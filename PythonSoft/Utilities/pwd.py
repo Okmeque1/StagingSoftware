@@ -17,19 +17,11 @@ try:
         print("This is an open-source program so you can share it anywhere on the internet,USB/CD/DVD or other media.Please mention in your copy Okmeque1 so that the original code is not lost to time.")
         option = int(input("Select option : "))
         if option == 1:
-
-
             print('Welcome to your password generator')
-
             chars = '¦¬`1!23£4$€5%6^7&8*9(0)-_=+qQwWeErRtTyYuUiIoOpPaAsSdDfFgGhHjJkKlL;:@~#\|zZxXcCvVbBnNmMm,<.>/?'
-
             number = 1
-
             length = input('Password length ')
             length = int(length)
-            
-
-
             for pwd in range(number):
                 passwords = ''
                 for c in range(length):
